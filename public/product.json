@@ -1,0 +1,50 @@
+[
+    {
+        "id": "65b3e2e34f70a04356719414",
+        "name": "Samsung Galaxy S23 FE",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2024/01/Samsung-Galaxy-S23-FE-violet-new-300x254.webp",
+        "price": 109999
+    },
+    {
+        "id": "65b3e2e3a6c34bd10b6396fd",
+        "name": "Samsung Galaxy S24 Ultra",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-grey-new-300x254.webp",
+        "price": 243999
+    },
+    {
+        "id": "65b3e2e304030d4986df628c",
+        "name": "Xiaomi Redmi 13C",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2024/01/Xiaomi-Redmi-13C-black-new-300x254.webp",
+        "price": 14499
+    },
+    {
+        "id": "65b3e2e317f875cec203b6d1",
+        "name": "Nokia 150 2023",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2024/01/Nokia-150-2023-Cyan-300x254.webp",
+        "price": 4200
+    },
+    {
+        "id": "65b3e2e3a299c6919b3550ce",
+        "name": "Nokia 110 (2023)",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2023/10/Nokia-110-2023-300x254.webp",
+        "price": 3000
+    },
+    {
+        "id": "65b3e2e39a6f0775afe80eab",
+        "name": "Nokia 106 (2023)",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2024/01/Nokia-106-2023-green-300x254.webp",
+        "price": 2475
+    },
+    {
+        "id": "65b3e2e38e28e16ff371d9ac",
+        "name": "Honor X6a",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2023/11/Honor-X6a-300x254.webp",
+        "price": 14999
+    },
+    {
+        "id": "65b3e2e3407e64dc2fff9a98",
+        "name": "Honor X5 Plus",
+        "picture": "https://www.mobiledokan.com/wp-content/uploads/2023/11/Honor-X5-Plus-Cyan-Lake-300x254.webp",
+        "price": 12999
+    }
+]
